@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "catalystnet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hellc/CatalystNet",
+      "state" : {
+        "revision" : "5e6b3ac03386d5b10d06c9835834436c14b2f1e2",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "reusable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AliSoftware/Reusable",
+      "state" : {
+        "revision" : "18674709421360e210c2ecd4e8e08b217d4ea61d",
+        "version" : "4.1.2"
+      }
+    },
+    {
+      "identity" : "rxflow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RxSwiftCommunity/RxFlow",
+      "state" : {
+        "revision" : "d8d4e53d05239f1ec1bd8bec173907868afa0fa1",
+        "version" : "2.13.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "b4307ba0b6425c0ba4178e138799946c3da594f8",
+        "version" : "6.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
